@@ -1,3 +1,4 @@
+It's a very amazing and useful code.
 <?php
 
 $rtmp_server = "rtmp://localhost:1935/videowhisper-ip";
