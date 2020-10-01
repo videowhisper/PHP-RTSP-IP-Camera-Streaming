@@ -1,8 +1,8 @@
-# PHP-RTSP-IP-Camera-Streaming
+# PHP RTSP IP-Camera Streaming
 
 [PHP RTSP IP Camera Streaming Homepage](https://videowhisper.com/?p=PHP-IP-Camera-Stream)
 
-## Key Features
+## Features
  * Re-Stream Live Video in Browser
  * Input Existing Streams (RTSP, UDP, RTMP)
  * Output RTMP & HTML5: HLS, MPEG-DASH
@@ -20,7 +20,7 @@
 [PHP RTSP IP Camera Streaming Demo](https://videowhisper.com/demos/ipcamera/) - For custom ports you need to [contact VideoWhisper support](https://videowhisper.com/tickets_submit.php) to configure firewall for allowing access to the RTSP streams.
 
 
-## Installation Instructions for PHP Live Video Streaming Software
+## Instruction to install PHP Live Video Streaming Software
  * Before installing, make sure your hosting environment meets all [requirements](https://videowhisper.com/?p=Requirements) . 
  * This edition requires Wowza Streaming Engine 4.2+ to monitor and publish the streams folder.
  * For enabling transcoding for HTML5 HLS / MPEG DASH playback required for iOS/Android delivery, special requirements apply: latest Wowza and FFMPEG with Flash and HTML5 specific codecs. MPEG DASH requires HTTPS.
